@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Filmpire 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is to list all movie contents
 
 ## Available Scripts
 
